@@ -3,8 +3,8 @@
 
 ##
 
--  E procuro uma vaga de desenvolvedor no mercado de trabalho e criei esse repositório 
-  para compartilhar os meus projetos.
+-  Procuro uma vaga de desenvolvedor no mercado de trabalho e criei esse repositório 
+  para compartilhar os meus projetos.👨🏽‍💻💻✅
 
 ## Algumas da ferrammentas que possuo conhecimento:
 <div style="display: inline_block"><br>
