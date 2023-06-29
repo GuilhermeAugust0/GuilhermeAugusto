@@ -1,7 +1,7 @@
 ## Olá, eu sou o **Guilherme**.
 - Atualmente estou estudando Desenvolvimento  Full Stack pela Recode Pro 👨🏾‍💻
-  e faço graduação de Bacharelado em Tecnologia da Informação. 👨🏾‍🎓
--  E procuro uma vaga de desenvolvedor no mercado de trabalho e crieie esse repositório 
+ # e faço graduação de Bacharelado em Tecnologia da Informação. 👨🏾‍🎓
+-  E procuro uma vaga de desenvolvedor no mercado de trabalho e criei esse repositório 
   para compartilhar os meus projetos.
 
 ## Algumas da ferrammentas que possuo conhecimento:
